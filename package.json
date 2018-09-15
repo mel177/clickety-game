@@ -1,0 +1,19 @@
+{
+  "name": "clickety-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mel177/clickety-game.git"
+  },
+  "author": "Melinh Mai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mel177/clickety-game/issues"
+  },
+  "homepage": "https://github.com/mel177/clickety-game#readme"
+}

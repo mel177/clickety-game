@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/241316/pexels-photo-241316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/112452/pexels-photo-112452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://images.pexels.com/photos/205740/pexels-photo-205740.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://images.pexels.com/photos/892522/pexels-photo-892522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://images.pexels.com/photos/60631/sports-car-audi-audi-quattro-auto-60631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "http://fancytuning.com/wp-content/uploads/2009/10/topcar-bentley-continental-gt-blacked-out.jpg",
+      "clicked": false
+    }
+  ]
+  
